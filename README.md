@@ -7,3 +7,5 @@
 # UC-3 : Add Part time Employee & Wage
 
 # UC-4 : Solving using Switch Case Statement
+
+# UC-5 : Calculating Wages for a Month
