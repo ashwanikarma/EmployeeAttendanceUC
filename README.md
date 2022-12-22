@@ -9,3 +9,5 @@
 # UC-4 : Solving using Switch Case Statement
 
 # UC-5 : Calculating Wages for a Month
+
+# UC-6 : Calculate Wages till a condition of total working hours or days is reached for a month
