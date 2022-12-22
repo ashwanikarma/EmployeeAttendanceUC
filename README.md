@@ -5,3 +5,5 @@
 # UC-2 : Calculate Daily Employee Wage
 
 # UC-3 : Add Part time Employee & Wage
+
+# UC-4 : Solving using Switch Case Statement
